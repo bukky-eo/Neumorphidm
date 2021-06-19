@@ -1,2 +1,2 @@
-# Neumorphidm
+# Neumorphism
 my first repository
